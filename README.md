@@ -2,6 +2,12 @@
 
 Projeto desenvolvido como desafio da trilha de React do Ignite da Rocketseat. O objetivo é criar uma aplicação de e-commerce fictícia para venda de cafés especiais, com funcionalidades como seleção de produtos, carrinho de compras e formulário de entrega.
 
+## 📸 Capturas de tela
+
+![Screenshot do jogo](./screenshot.png) <!-- Altere ou adicione uma imagem do jogo se desejar -->
+
+---
+
 ## 🔥 Tecnologias Utilizadas
 
 - [ReactJS](https://reactjs.org/)
